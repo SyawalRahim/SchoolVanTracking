@@ -1,4 +1,4 @@
-package com.example.schoolvantracking.model;
+package com.example.SchoolVanTracking.model;
 
 import jakarta.persistence.*;
 

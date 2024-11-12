@@ -1,7 +1,7 @@
-package com.example.schoolvantracking.controller;
+package com.example.SchoolVanTracking.controller;
 
-import com.example.schoolvantracking.model.Student;
-import com.example.schoolvantracking.service.VanTrackingService;
+import com.example.SchoolVanTracking.model.Student;
+import com.example.SchoolVanTracking.service.VanTrackingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
