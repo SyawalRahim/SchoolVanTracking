@@ -1,7 +1,7 @@
-package com.example.SchoolVanTracking.service;
+package com.example.schoolvantracking.service;
 
-import com.example.SchoolVanTracking.model.Student;
-import com.example.SchoolVanTracking.repository.StudentRepository;
+import com.example.schoolvantracking.model.Student;
+import com.example.schoolvantracking.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

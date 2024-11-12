@@ -1,4 +1,4 @@
-package com.example.SchoolVanTracking.model;
+package com.example.schoolvantracking.model;
 
 import jakarta.persistence.*;
 import java.util.List;
